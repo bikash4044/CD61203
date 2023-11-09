@@ -10,7 +10,7 @@ from scipy.stats import gamma
 from scipy.stats import norm
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("/content/drive/MyDrive/CCWR/Rainfall_Kandhamal_monthly_.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/bikash4044/CD61203/main/Rainfall_Kandhamal_monthly_(2).csv")
 # df
 
 time ="0123456789ab"
